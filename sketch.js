@@ -24,7 +24,9 @@ async function preload() {
     })
     .catch(err => {
       console.log(err);
-      createP(err + '<br>Undefined URL in Params')
+    noCanvas();
+    
+      createP(err + '<br>Use correct map url')
     });
 }
 function setup() {
