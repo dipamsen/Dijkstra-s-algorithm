@@ -13,4 +13,4 @@ OUTPUT: https://dipamsen.github.io/Dijkstra-s-algorithm/index.html (This will gi
 This is an interactive version of this implementation which uses URL Parameters for accessing the positions and routes of cities and roads.
 Hence to run it, JSON file with the above info, i.e. 'map' file is required.
 
-Some example maps have been published in [this repo] (https://github.com/dipamsen/Maps-for-Pathfinding) with their raw links in `README.md`.
+Some example maps have been published in [this repo](https://github.com/dipamsen/Maps-for-Pathfinding) with their raw links in `README.md`.
