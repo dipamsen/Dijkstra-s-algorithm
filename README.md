@@ -16,7 +16,7 @@ Hence to run it, JSON file with the above info, i.e. 'map' file is required.
 Some example maps have been published in [this repo](https://github.com/dipamsen/Maps-for-Pathfinding) with their raw links in `README.md`.
 
 To use one of the maps, eg. [map1.json](https://github.com/dipamsen/Maps-for-Pathfinding/blob/master/map1.json), we take its raw link from `README.md`  
-Raw Map: https://raw.githubusercontent.com/dipamsen/My-JSON-Data/master/map1.json
+Raw Map: https://raw.githubusercontent.com/dipamsen/Maps-for-Pathfinding/master/map1.json
 
 To use this map, add this map in the [OUTPUT link](https://dipamsen.github.io/Dijkstra-s-algorithm/index.html) by using `?URL=`  
-Example: https://dipamsen.github.io/Dijkstra-s-algorithm/index.html?URL=https://raw.githubusercontent.com/dipamsen/My-JSON-Data/master/map1.json will use map1 for performing the algorithm.
+Example: https://dipamsen.github.io/Dijkstra-s-algorithm/index.html?URL=https://raw.githubusercontent.com/dipamsen/Maps-for-Pathfinding/master/map1.json will use map1 for performing the algorithm.
