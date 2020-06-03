@@ -42,7 +42,7 @@ function draw() {
     myP = createP(myHtml);
     createP('<a href = "https://en.wikipedia.org/wiki/Dijkstra\'s_algorithm#Algorithm">Learn How this works</a>');
     createP('Disclaimer: Not to scale.');
-    createP('<a href="https://editor.p5js.org/dipam2006/sketches/zFxhTjOxp">Source Code</a>');
+    createP('<a href="https://github.com/dipamsen/Dijkstra-s-algorithm">Source Code</a>');
     India = new Country();
     //Using 6 cities for now
     India.addCity(new MyCity('A', allCities.A.x, allCities.A.y));
